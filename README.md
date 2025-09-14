@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a business data analyst with a consultancy based out in Bengaluru.<br>I am working on creating an API which will fetch real time stock market data<br>Currently i am learning Data Structure and Algorithm along with AWS
+I am currently working as a business data analyst with Flipkart based out in Bengaluru.<br>I am working on creating an API which will fetch real time stock market data<br>Currently i am learning Data Structure and Algorithm along with AWS
 
 
 ## 🌐 Socials:
